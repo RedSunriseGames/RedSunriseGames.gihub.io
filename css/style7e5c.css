@@ -983,6 +983,11 @@ p.desctxt {     text-align: left;
     background-position: center center !important;
     background-size: cover !important; }
 
+.fdny {         
+    background-image: url(../img/fdny.jpg?ver=1) !important;
+    background-position: center center !important;
+    background-size: cover !important; }
+
 .fdsection {         
     background-image: url(../img/criminal_bg68b3.jpg?ver=1) !important;
     background-position: center center !important;
